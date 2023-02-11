@@ -1,0 +1,8 @@
+The interview process had 3 rounds . 
+Round 1 : Technical & Programming Round - 1 hr
+      It was an virtual one on one round, the Interviewer gave me 4-5 logical puzzle questions, 5-7 predict the output of the java code questions were not of type MCQs and 1 programming question (Roman To Integer). Upon completing this round, I was called for next technical round which was scheduled on next day.
+Round 2 : Advanced Technical & Programming Round - 1 hr
+      It is also an virtual one on one round, they tested both technical and aptitude knowledge. The questions were from ages, logical puzzles, 2 programming question from combinations and array rotation, and some technical question from Java & MySql.
+Round 3 : Technical & HR Round - 1 hr
+      It was a technical interview and some general HR questions. The questions were from mathematical formula derivation (trapezium) , some logical puzzle questions and they asked me to write queries by giving some scenario. They asked few questions about family background, hobbies, why zoho and so on.
+The interviewers were very understanding and friendly. They also helped me by giving some hints while solving the puzzles.

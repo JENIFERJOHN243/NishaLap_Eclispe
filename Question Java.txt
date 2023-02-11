@@ -1,0 +1,83 @@
+1) Why index starts with Zer0?
+      Base address of an array + (index value X Size of datatype())
+
+2) WORA - why?
+   byte code(.class file) can run any machine which has JVM
+
+3)Class Loader Works
+    it load the byte code into JVM
+
+ClassLoader in Java is a class that is used to load class files in Java. 
+Java code is compiled into a class file by javac compiler and JVM executes the Java program, 
+by executing byte codes written in the class file. ClassLoader is responsible for loading class 
+files from file systems, networks, or any other source.
+
+
+4)main is a keyword or not
+    it is an identifier, JVM search 
+
+It is the name of the Java main method. 
+It is the identifier that the JVM looks for as the 
+starting point of the java program. It's not a keyword.
+
+5)can we write public void static?
+   no, bcoz method should has return type.
+
+6)what is local variable's default value?
+Compile time error--- may not been intialized(RunTime)
+
+No, local variables do not have default values. 
+Once we create a local variable we must initialize it before using it.
+
+8)Public static void Main(int[] args){} ---Run time error 
+no main method is found (Main)
+
+
+
+1)Method can't have duplicate copy of an other method
+2)complier error--error that voliating grammer of the lang
+3)Java is case sensitive
+4)Main method can overloaded but not an good practice
+4)Method overloaded - same method with different parameters list
+5)Main method is not found--runtime error
+6)Main method must be static,public
+7)Return type of the main method must be void
+8)Parameters of the main method must be an string array
+9)Identifier -- names that identify various elements
+  -- must starts with a letter or an underscore or dollar
+symbol
+  -- from the second character, identifiers can have any
+combinations of letter or digits or dollar symbol
+  -- Keywords Cannot be used as an identifier
+  -- No other special symbols are allowed except
+underscore and dollar 
+  -- should follow camelCase
+10)The type of any fractional(decimal no)numbers  
+is double by default 
+11)Java is strongly typed language(float value can stored
+only in float datatype)
+12)Python or JS weakly/Loosely typed language
+13)Possible loss of position error(Type casting)
+14)Instance Variable -If not initialized,it will assign default
+value(Inside class outside the method) can accessible by
+any of the methods defined inside the class
+15)Constructor doesn't have any return type
+16)Normal method can share class name but not an good
+practice
+17)method will get exectued only if called
+18)(byte code makes)Java is platform independent
+19)Byte code to specific platform (JVM)Interperter which
+is platform dependent
+20)Object oriented 3Principles: inhertiance,polymorpism &
+encapsulation. Without class&object we can't write javaPrgm
+Java is purly OOPS.C++ is partially OOPS
+21)Java doesn't supports Pointers & operator overloading
+22)Java implicty allocates its memory by JVM 
+reference of an address--reference variable
+23)+,&,! --> Some operators implicty overloaded explicty none of an
+opertors can overload.
+24)Length is an attribute for an array. Length is an
+method for an string
+25)
+
+

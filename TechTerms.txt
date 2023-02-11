@@ -1,0 +1,217 @@
+Cookies
+Data Mining
+
+12.10.2022
+
+                    HOW INTERNET WORKS
+EHCP
+IP - Internal Protocol(set of rules followed by internet)
+IP v4 -->32 bit no(only generate 4.2Billion)widely used
+IP v6 -->128bit(hexa) 
+DHCP - 
+TCP - transmission controlled protocol 
+HTTP - most commomly used application protocol (Request-Respone)
+SSL - Secured Socket Layer (used for secured channel)
+DNS - Domain Name System(has name & their ip address)phone book
+
+BootStrap - CSS framework (resizing) OpenSource framework 2011
+AJAX - page won't reload but it update its data 
+DOM -
+Low code / no code - Deluge(Zoho creator) Time Save
+
+13.10.2022
+
+Spam - unwanted msg
+Fissing - cyber attract 
+email fissing - 
+sphere fissing - 
+smishing - text msg
+Ransoware - virus
+spyware - used for tracking purpose
+spoofying - 
+click jackie - tricks used in web page (click here ->other tab -> download this maybe i.e malware)
+firewall - network security device
+Latency - delay (how much time taken for a requested data to travel from client side to server side)
+wireless - high latency wired - low latency
+Multi Processing - many process inn CPU
+Multi Threading - lightweight process
+LISP - high level programming used for AI based on symbols
+GIF - Graphic interchage format - compressed videos&pictures
+Hub - Central device of (lan,man,wan) 
+LAN - Wifi
+MAN - Cable Tv
+WAN - Internet
+MicroComputers - eg :laptop
+Super Computers - used at weather forecasting
+
+14.10.2022
+
+Cyber Security - data security
+Click Jackie - tricks in web page
+Spoofying - email spoofying 
+fissing - 
+walling -
+pissing -
+DOS &  DDOS - denial of service (when it reaches it shutsdown)
+Distributed denail of service(multiple ip attrack) eg.anna university result
+Bruteforce Attack - trial and error method
+Firewall - monitors & filters incoming outcoming network traffic
+Exploit - advantage of software vulrenability
+Malware - destory computers  (Spy ware hackers)
+Keylogger - track keyboard(key pressed)(virtual keyboard hdfc)
+Virus - copy itself and infect the computer
+Torjan House - unknown source install pana it allow malwares
+Worms - standalome malware
+Bot/Bot Net - (captcha remedy)
+Encryption - 0's 1's encrypted text
+Decryption - decrypt the encrypted text
+
+FULL STACK DEVELOPMENT
+
+UX - user experience(visual&navigation)
+UI - user interface 
+Resposive web design 
+Single Page Application (SPA) - won't reload & it updates update(Eg mail)
+Severless - cloud based development model(Bulid & run)no server manager it manage by cloud
+Cron Jobs -
+Web Scraping - 
+DevOps - development & operations
+
+17.10.2022
+
+Cloud Computing : Accessed from anywhere at anytime over internet
+Iaas - Infrastructur as service
+Paas - Platform as service
+Saas - Software as service
+Virtualization -
+Virtual Machine - 
+Hyperwiser
+Load Balancing - distribute application traffic to mulitple servers
+Middleware - 
+Docker - packer software
+
+18.10.2022
+
+DESIGN PATTERN
+Design Pattern - Reuseable solution used to solve common problems
+Creational Design Pattern - 
+Structural Design Pattern - 
+Behavioural Design Pattern - Common Communication Patterns b/w objects 
+  Singleton Design Pattern - Only one instance of the objects (Eg: JDBC Connection global access)
+  Factory Design Pattern -(Interfaces) used to achieve loose coupling(attached classes)
+Downcasting - 
+Upcasting - 
+Minification - code minimizing
+Parallel programming - like multithreading(divides in to sub programs)
+Subroutine Call Statement - block of instructions with well defined task
+LiveLock - 
+Reflection - can manipulate/inspect other code at runtime (can access private variable & methods without extension)
+Serialization - converting object into permanent state(object stream)
+  process of encode/decode in bytes and stored in file format .src extension
+Single Precison - 32 bit
+Double Precison - 64bit
+
+
+19.10.2022
+
+Bug
+Backdoor
+Domain
+Cloud
+Data Theft - Information Theft
+Hacker
+Vulnerability
+
+
+20.10.2022
+
+1) Pure Android - google pixel
+2) Stock Android - nokia ,micromax
+3) Custom UI Android - oneplus(Oxygen) oppo redmi
+4) Android one - low budget phone
+5) Android Go - old version
+
+
+Types of Mobile Apps
+- Native -> depends on that on phone(Contacts)
+- Web -> depends on web browser
+- Hybrid -> on phone & also web(only for testing)
+- Progressive web app -> same as mobile app present in web app(red bus,Zoom)
+
+Data Science 
+Machine Learning - starts with i/p + o/p makes solution (structured data)
+Types of Machine Learning - Supervised 
+                             - Unsupervised 
+                             - Semi-Supervised
+                             - Reinforcement
+                             - Transfer
+Working of Machine Learning - takes more than 1000's iteration
+Lang of machine learning - R & phyton
+Tools - pandas,matplotlib(visual),numpy(phyton module)
+Deep Learning - subset of machine learning (neural network-simulate the behaviour of brain)(Unstrutured data)
+AI - narrow AI -> good at specific task (Grammly)
+     - General AI -> good at multiple task (Sofia the robot)
+     - super AI -> advance than human (only theory till)
+Accuracy
+Bias- Avg difference
+Variance - spread
+Epoch - no of model runs
+Feature - input value
+Lable - output vale
+Loss -
+Model -
+Neural -
+Training set - generate model
+Test set - validate model
+Noise - unwanted data
+Precision - % of guess word
+Recall - % of only correct word
+
+21.10.2022
+
+Bandwidth 
+Captcha 
+Surface Web - eg fb google 5%
+Dark web - 95% access via TOR browser
+Deep web -eg netbanking private side in web protected with password
+Cookies - bits of info that are stored in our browser
+Session Cookies - temporarily stored 
+First party cookies - expiry after certain period(Persistent Cookies)
+Third party cookies - like first party with ad 
+Cache - eg whatapp login
+Patching - repairing a vulenerability
+Steganography - hiding the existence of a message or other data eg arunthathi movie
+Sniffing - netwrok monitor ottukerathu
+Social Engineering - spam msg like win a price of some amount
+Zero Day Exploit - 
+
+MATHS TERMS
+Furlong -- 1/8 mile or 220yards
+Yard 3 feets
+Addend 
+Scalena Triangle - all three sides are different
+Magic number - 1234 eg
+Prefect Number - integer ==sum of its diviors
+Beautiful Number eg 1333
+Kirshanamurthy number 145 1!+4!+5!==145
+Amstrong Number - sum of the cubes of its digits ==number itself (cyrpto)
+
+26.10.2022
+Cache Memory - secondary storage->RAM->cache->Converted to bytes and sent to processor
+Cache is time efficient 
+hit ratio 
+ram - loss memory 
+cache has more high capacitors so no loss Eg chrome after sleep(restore)
+
+Spyware - virus (tracking purpose)
+Password brute force - trail & error method(it has many keys of password) --hydra tool is used
+Honey pot - 
+Man in the middle attact MITM- dangerous attack where hackers is an prepetrator eg addidas adidas duplicate of brand apps
+Broken Access Control - 
+Cryptographic Failures - encrpyt decrpyt
+Insecure Design - has more vulnerabiltiy
+hackthebox,tryhackme - learning site
+Red hat hackers  
+Black hat hackers
+Grey hat hackers
+White hat hackers - legal hackers (to prevent the source from hackers)

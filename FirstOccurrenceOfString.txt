@@ -1,0 +1,21 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        int index1=haystack.indexOf(needle);
+        return index1;
+   System.out.println("Other method");
+    int len=haystack.length();
+        int targetLength=needle.length();
+        int i;
+        if(targetLength>len){
+            return -1;
+        }
+          for ( i = 0; i < len; i++) {
+               if (haystack.charAt(i) == needle.charAt(0)) {
+                     if (haystack.substring(i,i+targetLength).equals(needle)){
+                         return i;
+                     }
+              }
+        }
+        return -1;
+    }
+}

@@ -1,0 +1,19 @@
+int i;
+for( i=1;i<=100;i+=2){
+System.out.println(i);
+}
+System.out.println(i);
+
+student table --id,name
+id =1 name = jeni
+id =2 name =john
+id =3 name= arun
+
+graduation table--id(1,2)
+
+select name from student where id 
+in (select id from graduation );
+
+select name from student where id not in(select id from grduation);
+
+select t.name from student t left join graduation g on (select 

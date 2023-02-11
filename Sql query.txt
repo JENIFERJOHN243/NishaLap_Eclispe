@@ -1,0 +1,19 @@
+use Yogeswari;
+
+select *from Student;
+select *from Locaion;
+select *from Course;
+select s.*, c.CourseName from Student s left outer join Course c on s.CourseID = c.CourseID;
+
+select s.*,CASE WHEN c.CourseName IS NULL THEN 'Not Joined' WHEN c.CourseID = 'CSE' THEN 'cs' ELSE c.CourseName END
+ from Student s left outer join Course c on s.CourseID = c.CourseID;
+
+select * from Student s right outer join Course c on s.CourseID = c.CourseID;
+
+select * from Student s inner join Course c on s.CourseID = c.CourseID;
+
+select * from Student s cross join Course c;
+
+select * from TNPSCResults Where Result = 'PASS';
+
+select * from Student s left outer join Locaion l on s.LocationCode = l.LocationCode where s.Roll_No IN (select Roll_No from TNPSCResults Where Result = 'PASS')
